@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 4308b465bb21d2e40a48c315ea17499d
+timeCreated: 1477989145
+licenseType: Store
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Basic Commercial LT Com
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 1fd9d6e72e726de498f4b39a57b8e39e, type: 3}
+  - {fileID: 12800000, guid: 1078e2ad0ca07ed4baaf1b6cf53953b7, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
