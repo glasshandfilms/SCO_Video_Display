@@ -1,0 +1,1 @@
+Videos were obtained from youtube, with free distribution 
